@@ -3,6 +3,9 @@
 
 This project implements a **microservices-based web crawler** with JWT-based authentication and multiple services responsible for crawling, data storage, and API gateway functionality. Each service is containerized using Docker and can be scaled independently.
 
+## WIKI Page
+https://github.com/iampawans/web-crawler/wiki/Web-Crawler
+
 ## Services Overview
 
 ### 1. **Authentication Service**:
